@@ -6,6 +6,9 @@
                     <div class="banner-content">
                         <h1 class="title">Universidad Publica <br>de El Alto</h1>
                         <p>La universidad del pueblo y para el pueblo</p>
+                        <p>Nombre: {{ nombre }}</p>
+                        <p>Apellido: {{ apellido }}</p>
+                        <p>Edad: {{ edad }}</p>
                         <div class="banner-btn">
                             <n-link to="/course/course-one" class="edu-btn">Find courses <i class="icon-4"></i></n-link>
                         </div>
@@ -54,9 +57,30 @@
 </template>
 
 <script>
+    import { datosStore } from '../../store/store'
     export default {
+        data() {
+            return{
+                nombre:'',
+                apellido:'',
+                edad:0,
+            }
+        },
         components: {
             MouseMove: () => import('@/components/animation/MouseMove')
+        },        
+        methods: {
+          datosUsuario(){
+            const datosUsuario = datosStore();
+            const { nombre, apellido, edad } = datosUsuario;
+            
+            this.nombre = nombre;
+            this.apellido = apellido;
+            this.edad = edad
+          }  
+        },
+        created(){
+            this.datosUsuario()
         }
     }
 </script>

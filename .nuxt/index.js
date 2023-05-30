@@ -13,6 +13,8 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 /* Plugins */
 
 import nuxt_plugin_plugin_6a79edda from 'nuxt_plugin_plugin_6a79edda' // Source: ./components/plugin.js (mode: 'all')
+import nuxt_plugin_plugin_30d9b08a from 'nuxt_plugin_plugin_30d9b08a' // Source: ./composition-api/plugin.mjs (mode: 'all')
+import nuxt_plugin_distplugin3d10eddf_c6fafb58 from 'nuxt_plugin_distplugin3d10eddf_c6fafb58' // Source: ./dist.plugin.3d10eddf.mjs (mode: 'all')
 import nuxt_plugin_pluginserver_dbc77a1a from 'nuxt_plugin_pluginserver_dbc77a1a' // Source: ./color-mode/plugin.server.js (mode: 'server')
 import nuxt_plugin_pluginclient_2c62d16b from 'nuxt_plugin_pluginclient_2c62d16b' // Source: ./color-mode/plugin.client.js (mode: 'client')
 import nuxt_plugin_vueawesomeswiper_5ce03f58 from 'nuxt_plugin_vueawesomeswiper_5ce03f58' // Source: ../plugins/vue-awesome-swiper.js (mode: 'all')
@@ -24,6 +26,7 @@ import nuxt_plugin_observevisibility_b986de04 from 'nuxt_plugin_observevisibilit
 import nuxt_plugin_vuemasonrycss_6d616ab9 from 'nuxt_plugin_vuemasonrycss_6d616ab9' // Source: ../plugins/vue-masonry-css.js (mode: 'all')
 import nuxt_plugin_bootstrapbundlemin_61132cca from 'nuxt_plugin_bootstrapbundlemin_61132cca' // Source: ../plugins/bootstrap.bundle.min.js (mode: 'client')
 import nuxt_plugin_aos_5e4622cf from 'nuxt_plugin_aos_5e4622cf' // Source: ../plugins/aos (mode: 'client')
+import nuxt_plugin_meta_5607b58d from 'nuxt_plugin_meta_5607b58d' // Source: ./composition-api/meta.mjs (mode: 'all')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -193,6 +196,14 @@ async function createApp(ssrContext, config = {}) {
     await nuxt_plugin_plugin_6a79edda(app.context, inject)
   }
 
+  if (typeof nuxt_plugin_plugin_30d9b08a === 'function') {
+    await nuxt_plugin_plugin_30d9b08a(app.context, inject)
+  }
+
+  if (typeof nuxt_plugin_distplugin3d10eddf_c6fafb58 === 'function') {
+    await nuxt_plugin_distplugin3d10eddf_c6fafb58(app.context, inject)
+  }
+
   if (process.server && typeof nuxt_plugin_pluginserver_dbc77a1a === 'function') {
     await nuxt_plugin_pluginserver_dbc77a1a(app.context, inject)
   }
@@ -235,6 +246,10 @@ async function createApp(ssrContext, config = {}) {
 
   if (process.client && typeof nuxt_plugin_aos_5e4622cf === 'function') {
     await nuxt_plugin_aos_5e4622cf(app.context, inject)
+  }
+
+  if (typeof nuxt_plugin_meta_5607b58d === 'function') {
+    await nuxt_plugin_meta_5607b58d(app.context, inject)
   }
 
   // Lock enablePreview in context

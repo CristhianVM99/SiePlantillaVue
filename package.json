@@ -10,7 +10,9 @@
         "generate": "nuxt generate"
     },
     "dependencies": {
+        "@nuxtjs/composition-api": "^0.33.1",
         "@nuxtjs/style-resources": "^1.2.1",
+        "@pinia/nuxt": "^0.2.1",
         "aos": "^2.3.4",
         "core-js": "^3.18.2",
         "emailjs-com": "^3.2.0",
