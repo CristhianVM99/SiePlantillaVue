@@ -2,323 +2,323 @@
   {
     "name": "about-us-one",
     "path": "/about-us-one",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/about-us-one.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/about-us-one.vue",
     "chunkName": "pages/about-us-one",
-    "_name": "_0a7037c4"
+    "_name": "_895f86ee"
   },
   {
     "name": "about-us-three",
     "path": "/about-us-three",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/about-us-three.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/about-us-three.vue",
     "chunkName": "pages/about-us-three",
-    "_name": "_9c670d08"
+    "_name": "_aa833dfe"
   },
   {
     "name": "about-us-two",
     "path": "/about-us-two",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/about-us-two.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/about-us-two.vue",
     "chunkName": "pages/about-us-two",
-    "_name": "_22d7e8aa"
+    "_name": "_58902522"
   },
   {
     "name": "coming-soon",
     "path": "/coming-soon",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/coming-soon.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/coming-soon.vue",
     "chunkName": "pages/coming-soon",
-    "_name": "_d6109cec"
+    "_name": "_2f518025"
   },
   {
     "name": "contact-me",
     "path": "/contact-me",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/contact-me.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/contact-me.vue",
     "chunkName": "pages/contact-me",
-    "_name": "_fcdef11c"
+    "_name": "_6dc4f977"
   },
   {
     "name": "contact-us",
     "path": "/contact-us",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/contact-us.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/contact-us.vue",
     "chunkName": "pages/contact-us",
-    "_name": "_e006d510"
+    "_name": "_7c31077d"
   },
   {
     "name": "distant-learning",
     "path": "/distant-learning",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/distant-learning.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/distant-learning.vue",
     "chunkName": "pages/distant-learning",
-    "_name": "_33f37092"
+    "_name": "_6a1c61fc"
   },
   {
     "name": "faq",
     "path": "/faq",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/faq.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/faq.vue",
     "chunkName": "pages/faq",
-    "_name": "_e566694e"
+    "_name": "_823f3618"
   },
   {
     "name": "gallery-grid",
     "path": "/gallery-grid",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/gallery-grid.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/gallery-grid.vue",
     "chunkName": "pages/gallery-grid",
-    "_name": "_0596daae"
+    "_name": "_9312411a"
   },
   {
     "name": "gallery-masonry",
     "path": "/gallery-masonry",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/gallery-masonry.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/gallery-masonry.vue",
     "chunkName": "pages/gallery-masonry",
-    "_name": "_26c3848d"
+    "_name": "_4c0e8da8"
   },
   {
     "name": "kindergarten",
     "path": "/kindergarten",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/kindergarten.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/kindergarten.vue",
     "chunkName": "pages/kindergarten",
-    "_name": "_754c8813"
+    "_name": "_262c8cd8"
   },
   {
     "name": "kitchen-coach",
     "path": "/kitchen-coach",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/kitchen-coach.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/kitchen-coach.vue",
     "chunkName": "pages/kitchen-coach",
-    "_name": "_a4a27398"
+    "_name": "_18cf5a0f"
   },
   {
     "name": "landing-demo",
     "path": "/landing-demo",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/landing-demo.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/landing-demo.vue",
     "chunkName": "pages/landing-demo",
-    "_name": "_7b3741a6"
+    "_name": "_2c17466b"
   },
   {
     "name": "my-account",
     "path": "/my-account",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/my-account.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/my-account.vue",
     "chunkName": "pages/my-account",
-    "_name": "_68ba4c99"
+    "_name": "_54eebe9e"
   },
   {
     "name": "online-academy",
     "path": "/online-academy",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/online-academy.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/online-academy.vue",
     "chunkName": "pages/online-academy",
-    "_name": "_37c26502"
+    "_name": "_45de95f8"
   },
   {
     "name": "pricing-table",
     "path": "/pricing-table",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/pricing-table.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/pricing-table.vue",
     "chunkName": "pages/pricing-table",
-    "_name": "_3af26dec"
+    "_name": "_4da75ce5"
   },
   {
     "name": "privacy-policy",
     "path": "/privacy-policy",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/privacy-policy.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/privacy-policy.vue",
     "chunkName": "pages/privacy-policy",
-    "_name": "_10d120a4"
+    "_name": "_09c30829"
   },
   {
     "name": "purchase-guide",
     "path": "/purchase-guide",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/purchase-guide.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/purchase-guide.vue",
     "chunkName": "pages/purchase-guide",
-    "_name": "_0fb7d83d"
+    "_name": "_08a9bfc2"
   },
   {
     "name": "shop",
     "path": "/shop",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/shop/index.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/shop/index.vue",
     "chunkName": "pages/shop/index",
-    "_name": "_72cdf786"
+    "_name": "_5f02698b"
   },
   {
     "name": "terms-condition",
     "path": "/terms-condition",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/terms-condition.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/terms-condition.vue",
     "chunkName": "pages/terms-condition",
-    "_name": "_d37906d0"
+    "_name": "_88e2f49a"
   },
   {
     "name": "university",
     "path": "/university",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/university.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/university.vue",
     "chunkName": "pages/university",
-    "_name": "_043f971b"
+    "_name": "_1f17edc0"
   },
   {
     "name": "yoga-instructor",
     "path": "/yoga-instructor",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/yoga-instructor.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/yoga-instructor.vue",
     "chunkName": "pages/yoga-instructor",
-    "_name": "_2749dddd"
+    "_name": "_4c94e6f8"
   },
   {
     "name": "blog-blog-details",
     "path": "/blog/blog-details",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/blog/blog-details.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/blog/blog-details.vue",
     "chunkName": "pages/blog/blog-details",
-    "_name": "_c6fdc332"
+    "_name": "_c9a3667c"
   },
   {
     "name": "blog-blog-list",
     "path": "/blog/blog-list",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/blog/blog-list.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/blog/blog-list.vue",
     "chunkName": "pages/blog/blog-list",
-    "_name": "_9f55666e"
+    "_name": "_ad719764"
   },
   {
     "name": "blog-blog-masonry",
     "path": "/blog/blog-masonry",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/blog/blog-masonry.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/blog/blog-masonry.vue",
     "chunkName": "pages/blog/blog-masonry",
-    "_name": "_348270ea"
+    "_name": "_332f9f45"
   },
   {
     "name": "blog-blog-standard",
     "path": "/blog/blog-standard",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/blog/blog-standard.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/blog/blog-standard.vue",
     "chunkName": "pages/blog/blog-standard",
-    "_name": "_3a5111e8"
+    "_name": "_1149aeed"
   },
   {
     "name": "course-course-details",
     "path": "/course/course-details",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-details.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/course/course-details.vue",
     "chunkName": "pages/course/course-details",
-    "_name": "_d26950f2"
+    "_name": "_0433e062"
   },
   {
     "name": "course-course-details-2",
     "path": "/course/course-details-2",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-details-2.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/course/course-details-2.vue",
     "chunkName": "pages/course/course-details-2",
-    "_name": "_0bc082ec"
+    "_name": "_7dab7df2"
   },
   {
     "name": "course-course-details-3",
     "path": "/course/course-details-3",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-details-3.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/course/course-details-3.vue",
     "chunkName": "pages/course/course-details-3",
-    "_name": "_0bce9a6d"
+    "_name": "_7d8f4ef0"
   },
   {
     "name": "course-course-five",
     "path": "/course/course-five",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-five.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/course/course-five.vue",
     "chunkName": "pages/course/course-five",
-    "_name": "_e3827886"
+    "_name": "_653760c2"
   },
   {
     "name": "course-course-four",
     "path": "/course/course-four",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-four.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/course/course-four.vue",
     "chunkName": "pages/course/course-four",
-    "_name": "_6ab2ff9e"
+    "_name": "_bcc1c594"
   },
   {
     "name": "course-course-one",
     "path": "/course/course-one",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-one.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/course/course-one.vue",
     "chunkName": "pages/course/course-one",
-    "_name": "_4b48402b"
+    "_name": "_49f56e86"
   },
   {
     "name": "course-course-three",
     "path": "/course/course-three",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-three.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/course/course-three.vue",
     "chunkName": "pages/course/course-three",
-    "_name": "_1cc40423"
+    "_name": "_24df07be"
   },
   {
     "name": "course-course-two",
     "path": "/course/course-two",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-two.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/course/course-two.vue",
     "chunkName": "pages/course/course-two",
-    "_name": "_63aff111"
+    "_name": "_625d1f6c"
   },
   {
     "name": "event-event-details",
     "path": "/event/event-details",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/event/event-details.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/event/event-details.vue",
     "chunkName": "pages/event/event-details",
-    "_name": "_56b8b79d"
+    "_name": "_5ed3bb38"
   },
   {
     "name": "event-event-grid",
     "path": "/event/event-grid",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/event/event-grid.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/event/event-grid.vue",
     "chunkName": "pages/event/event-grid",
-    "_name": "_30f975fb"
+    "_name": "_95e0df80"
   },
   {
     "name": "event-event-list",
     "path": "/event/event-list",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/event/event-list.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/event/event-list.vue",
     "chunkName": "pages/event/event-list",
-    "_name": "_6e392f53"
+    "_name": "_1b616cd0"
   },
   {
     "name": "instructor-instructor-one",
     "path": "/instructor/instructor-one",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/instructor/instructor-one.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/instructor/instructor-one.vue",
     "chunkName": "pages/instructor/instructor-one",
-    "_name": "_07a185eb"
+    "_name": "_09942946"
   },
   {
     "name": "instructor-instructor-profile",
     "path": "/instructor/instructor-profile",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/instructor/instructor-profile.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/instructor/instructor-profile.vue",
     "chunkName": "pages/instructor/instructor-profile",
-    "_name": "_4d6d6da4"
+    "_name": "_df9671ee"
   },
   {
     "name": "instructor-instructor-three",
     "path": "/instructor/instructor-three",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/instructor/instructor-three.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/instructor/instructor-three.vue",
     "chunkName": "pages/instructor/instructor-three",
-    "_name": "_27e2d9e3"
+    "_name": "_77ba127e"
   },
   {
     "name": "instructor-instructor-two",
     "path": "/instructor/instructor-two",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/instructor/instructor-two.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/instructor/instructor-two.vue",
     "chunkName": "pages/instructor/instructor-two",
-    "_name": "_200936d1"
+    "_name": "_21fbda2c"
   },
   {
     "name": "shop-cart",
     "path": "/shop/cart",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/shop/cart.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/shop/cart.vue",
     "chunkName": "pages/shop/cart",
-    "_name": "_0594b51c"
+    "_name": "_1db76e77"
   },
   {
     "name": "shop-checkout",
     "path": "/shop/checkout",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/shop/checkout.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/shop/checkout.vue",
     "chunkName": "pages/shop/checkout",
-    "_name": "_34fdb242"
+    "_name": "_bfc373c6"
   },
   {
     "name": "shop-product-details",
     "path": "/shop/product-details",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/shop/product-details.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/shop/product-details.vue",
     "chunkName": "pages/shop/product-details",
-    "_name": "_6d4fc618"
+    "_name": "_689535dd"
   },
   {
     "name": "shop-wishlist",
     "path": "/shop/wishlist",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/shop/wishlist.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/shop/wishlist.vue",
     "chunkName": "pages/shop/wishlist",
-    "_name": "_67a0797e"
+    "_name": "_3750571c"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/home/crismas/Documents/templates 2023/templates vue/TEMPLATE VUE JS/edublinkvuejs-10/edublinkvuejs-10/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/index.vue",
+    "component": "/home/crismas99/Documents/SERVIDOR SIE UPEA/SiePlantillaVue/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_1ea9ac55"
+    "_name": "_39bd4b30"
   }
 ]

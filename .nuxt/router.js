@@ -4,52 +4,52 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _0a7037c4 = () => interopDefault(import('../pages/about-us-one.vue' /* webpackChunkName: "pages/about-us-one" */))
-const _9c670d08 = () => interopDefault(import('../pages/about-us-three.vue' /* webpackChunkName: "pages/about-us-three" */))
-const _22d7e8aa = () => interopDefault(import('../pages/about-us-two.vue' /* webpackChunkName: "pages/about-us-two" */))
-const _d6109cec = () => interopDefault(import('../pages/coming-soon.vue' /* webpackChunkName: "pages/coming-soon" */))
-const _fcdef11c = () => interopDefault(import('../pages/contact-me.vue' /* webpackChunkName: "pages/contact-me" */))
-const _e006d510 = () => interopDefault(import('../pages/contact-us.vue' /* webpackChunkName: "pages/contact-us" */))
-const _33f37092 = () => interopDefault(import('../pages/distant-learning.vue' /* webpackChunkName: "pages/distant-learning" */))
-const _e566694e = () => interopDefault(import('../pages/faq.vue' /* webpackChunkName: "pages/faq" */))
-const _0596daae = () => interopDefault(import('../pages/gallery-grid.vue' /* webpackChunkName: "pages/gallery-grid" */))
-const _26c3848d = () => interopDefault(import('../pages/gallery-masonry.vue' /* webpackChunkName: "pages/gallery-masonry" */))
-const _754c8813 = () => interopDefault(import('../pages/kindergarten.vue' /* webpackChunkName: "pages/kindergarten" */))
-const _a4a27398 = () => interopDefault(import('../pages/kitchen-coach.vue' /* webpackChunkName: "pages/kitchen-coach" */))
-const _7b3741a6 = () => interopDefault(import('../pages/landing-demo.vue' /* webpackChunkName: "pages/landing-demo" */))
-const _68ba4c99 = () => interopDefault(import('../pages/my-account.vue' /* webpackChunkName: "pages/my-account" */))
-const _37c26502 = () => interopDefault(import('../pages/online-academy.vue' /* webpackChunkName: "pages/online-academy" */))
-const _3af26dec = () => interopDefault(import('../pages/pricing-table.vue' /* webpackChunkName: "pages/pricing-table" */))
-const _10d120a4 = () => interopDefault(import('../pages/privacy-policy.vue' /* webpackChunkName: "pages/privacy-policy" */))
-const _0fb7d83d = () => interopDefault(import('../pages/purchase-guide.vue' /* webpackChunkName: "pages/purchase-guide" */))
-const _72cdf786 = () => interopDefault(import('../pages/shop/index.vue' /* webpackChunkName: "pages/shop/index" */))
-const _d37906d0 = () => interopDefault(import('../pages/terms-condition.vue' /* webpackChunkName: "pages/terms-condition" */))
-const _043f971b = () => interopDefault(import('../pages/university.vue' /* webpackChunkName: "pages/university" */))
-const _2749dddd = () => interopDefault(import('../pages/yoga-instructor.vue' /* webpackChunkName: "pages/yoga-instructor" */))
-const _c6fdc332 = () => interopDefault(import('../pages/blog/blog-details.vue' /* webpackChunkName: "pages/blog/blog-details" */))
-const _9f55666e = () => interopDefault(import('../pages/blog/blog-list.vue' /* webpackChunkName: "pages/blog/blog-list" */))
-const _348270ea = () => interopDefault(import('../pages/blog/blog-masonry.vue' /* webpackChunkName: "pages/blog/blog-masonry" */))
-const _3a5111e8 = () => interopDefault(import('../pages/blog/blog-standard.vue' /* webpackChunkName: "pages/blog/blog-standard" */))
-const _d26950f2 = () => interopDefault(import('../pages/course/course-details.vue' /* webpackChunkName: "pages/course/course-details" */))
-const _0bc082ec = () => interopDefault(import('../pages/course/course-details-2.vue' /* webpackChunkName: "pages/course/course-details-2" */))
-const _0bce9a6d = () => interopDefault(import('../pages/course/course-details-3.vue' /* webpackChunkName: "pages/course/course-details-3" */))
-const _e3827886 = () => interopDefault(import('../pages/course/course-five.vue' /* webpackChunkName: "pages/course/course-five" */))
-const _6ab2ff9e = () => interopDefault(import('../pages/course/course-four.vue' /* webpackChunkName: "pages/course/course-four" */))
-const _4b48402b = () => interopDefault(import('../pages/course/course-one.vue' /* webpackChunkName: "pages/course/course-one" */))
-const _1cc40423 = () => interopDefault(import('../pages/course/course-three.vue' /* webpackChunkName: "pages/course/course-three" */))
-const _63aff111 = () => interopDefault(import('../pages/course/course-two.vue' /* webpackChunkName: "pages/course/course-two" */))
-const _56b8b79d = () => interopDefault(import('../pages/event/event-details.vue' /* webpackChunkName: "pages/event/event-details" */))
-const _30f975fb = () => interopDefault(import('../pages/event/event-grid.vue' /* webpackChunkName: "pages/event/event-grid" */))
-const _6e392f53 = () => interopDefault(import('../pages/event/event-list.vue' /* webpackChunkName: "pages/event/event-list" */))
-const _07a185eb = () => interopDefault(import('../pages/instructor/instructor-one.vue' /* webpackChunkName: "pages/instructor/instructor-one" */))
-const _4d6d6da4 = () => interopDefault(import('../pages/instructor/instructor-profile.vue' /* webpackChunkName: "pages/instructor/instructor-profile" */))
-const _27e2d9e3 = () => interopDefault(import('../pages/instructor/instructor-three.vue' /* webpackChunkName: "pages/instructor/instructor-three" */))
-const _200936d1 = () => interopDefault(import('../pages/instructor/instructor-two.vue' /* webpackChunkName: "pages/instructor/instructor-two" */))
-const _0594b51c = () => interopDefault(import('../pages/shop/cart.vue' /* webpackChunkName: "pages/shop/cart" */))
-const _34fdb242 = () => interopDefault(import('../pages/shop/checkout.vue' /* webpackChunkName: "pages/shop/checkout" */))
-const _6d4fc618 = () => interopDefault(import('../pages/shop/product-details.vue' /* webpackChunkName: "pages/shop/product-details" */))
-const _67a0797e = () => interopDefault(import('../pages/shop/wishlist.vue' /* webpackChunkName: "pages/shop/wishlist" */))
-const _1ea9ac55 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _895f86ee = () => interopDefault(import('../pages/about-us-one.vue' /* webpackChunkName: "pages/about-us-one" */))
+const _aa833dfe = () => interopDefault(import('../pages/about-us-three.vue' /* webpackChunkName: "pages/about-us-three" */))
+const _58902522 = () => interopDefault(import('../pages/about-us-two.vue' /* webpackChunkName: "pages/about-us-two" */))
+const _2f518025 = () => interopDefault(import('../pages/coming-soon.vue' /* webpackChunkName: "pages/coming-soon" */))
+const _6dc4f977 = () => interopDefault(import('../pages/contact-me.vue' /* webpackChunkName: "pages/contact-me" */))
+const _7c31077d = () => interopDefault(import('../pages/contact-us.vue' /* webpackChunkName: "pages/contact-us" */))
+const _6a1c61fc = () => interopDefault(import('../pages/distant-learning.vue' /* webpackChunkName: "pages/distant-learning" */))
+const _823f3618 = () => interopDefault(import('../pages/faq.vue' /* webpackChunkName: "pages/faq" */))
+const _9312411a = () => interopDefault(import('../pages/gallery-grid.vue' /* webpackChunkName: "pages/gallery-grid" */))
+const _4c0e8da8 = () => interopDefault(import('../pages/gallery-masonry.vue' /* webpackChunkName: "pages/gallery-masonry" */))
+const _262c8cd8 = () => interopDefault(import('../pages/kindergarten.vue' /* webpackChunkName: "pages/kindergarten" */))
+const _18cf5a0f = () => interopDefault(import('../pages/kitchen-coach.vue' /* webpackChunkName: "pages/kitchen-coach" */))
+const _2c17466b = () => interopDefault(import('../pages/landing-demo.vue' /* webpackChunkName: "pages/landing-demo" */))
+const _54eebe9e = () => interopDefault(import('../pages/my-account.vue' /* webpackChunkName: "pages/my-account" */))
+const _45de95f8 = () => interopDefault(import('../pages/online-academy.vue' /* webpackChunkName: "pages/online-academy" */))
+const _4da75ce5 = () => interopDefault(import('../pages/pricing-table.vue' /* webpackChunkName: "pages/pricing-table" */))
+const _09c30829 = () => interopDefault(import('../pages/privacy-policy.vue' /* webpackChunkName: "pages/privacy-policy" */))
+const _08a9bfc2 = () => interopDefault(import('../pages/purchase-guide.vue' /* webpackChunkName: "pages/purchase-guide" */))
+const _5f02698b = () => interopDefault(import('../pages/shop/index.vue' /* webpackChunkName: "pages/shop/index" */))
+const _88e2f49a = () => interopDefault(import('../pages/terms-condition.vue' /* webpackChunkName: "pages/terms-condition" */))
+const _1f17edc0 = () => interopDefault(import('../pages/university.vue' /* webpackChunkName: "pages/university" */))
+const _4c94e6f8 = () => interopDefault(import('../pages/yoga-instructor.vue' /* webpackChunkName: "pages/yoga-instructor" */))
+const _c9a3667c = () => interopDefault(import('../pages/blog/blog-details.vue' /* webpackChunkName: "pages/blog/blog-details" */))
+const _ad719764 = () => interopDefault(import('../pages/blog/blog-list.vue' /* webpackChunkName: "pages/blog/blog-list" */))
+const _332f9f45 = () => interopDefault(import('../pages/blog/blog-masonry.vue' /* webpackChunkName: "pages/blog/blog-masonry" */))
+const _1149aeed = () => interopDefault(import('../pages/blog/blog-standard.vue' /* webpackChunkName: "pages/blog/blog-standard" */))
+const _0433e062 = () => interopDefault(import('../pages/course/course-details.vue' /* webpackChunkName: "pages/course/course-details" */))
+const _7dab7df2 = () => interopDefault(import('../pages/course/course-details-2.vue' /* webpackChunkName: "pages/course/course-details-2" */))
+const _7d8f4ef0 = () => interopDefault(import('../pages/course/course-details-3.vue' /* webpackChunkName: "pages/course/course-details-3" */))
+const _653760c2 = () => interopDefault(import('../pages/course/course-five.vue' /* webpackChunkName: "pages/course/course-five" */))
+const _bcc1c594 = () => interopDefault(import('../pages/course/course-four.vue' /* webpackChunkName: "pages/course/course-four" */))
+const _49f56e86 = () => interopDefault(import('../pages/course/course-one.vue' /* webpackChunkName: "pages/course/course-one" */))
+const _24df07be = () => interopDefault(import('../pages/course/course-three.vue' /* webpackChunkName: "pages/course/course-three" */))
+const _625d1f6c = () => interopDefault(import('../pages/course/course-two.vue' /* webpackChunkName: "pages/course/course-two" */))
+const _5ed3bb38 = () => interopDefault(import('../pages/event/event-details.vue' /* webpackChunkName: "pages/event/event-details" */))
+const _95e0df80 = () => interopDefault(import('../pages/event/event-grid.vue' /* webpackChunkName: "pages/event/event-grid" */))
+const _1b616cd0 = () => interopDefault(import('../pages/event/event-list.vue' /* webpackChunkName: "pages/event/event-list" */))
+const _09942946 = () => interopDefault(import('../pages/instructor/instructor-one.vue' /* webpackChunkName: "pages/instructor/instructor-one" */))
+const _df9671ee = () => interopDefault(import('../pages/instructor/instructor-profile.vue' /* webpackChunkName: "pages/instructor/instructor-profile" */))
+const _77ba127e = () => interopDefault(import('../pages/instructor/instructor-three.vue' /* webpackChunkName: "pages/instructor/instructor-three" */))
+const _21fbda2c = () => interopDefault(import('../pages/instructor/instructor-two.vue' /* webpackChunkName: "pages/instructor/instructor-two" */))
+const _1db76e77 = () => interopDefault(import('../pages/shop/cart.vue' /* webpackChunkName: "pages/shop/cart" */))
+const _bfc373c6 = () => interopDefault(import('../pages/shop/checkout.vue' /* webpackChunkName: "pages/shop/checkout" */))
+const _689535dd = () => interopDefault(import('../pages/shop/product-details.vue' /* webpackChunkName: "pages/shop/product-details" */))
+const _3750571c = () => interopDefault(import('../pages/shop/wishlist.vue' /* webpackChunkName: "pages/shop/wishlist" */))
+const _39bd4b30 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -64,187 +64,187 @@ export const routerOptions = {
 
   routes: [{
     path: "/about-us-one",
-    component: _0a7037c4,
+    component: _895f86ee,
     name: "about-us-one"
   }, {
     path: "/about-us-three",
-    component: _9c670d08,
+    component: _aa833dfe,
     name: "about-us-three"
   }, {
     path: "/about-us-two",
-    component: _22d7e8aa,
+    component: _58902522,
     name: "about-us-two"
   }, {
     path: "/coming-soon",
-    component: _d6109cec,
+    component: _2f518025,
     name: "coming-soon"
   }, {
     path: "/contact-me",
-    component: _fcdef11c,
+    component: _6dc4f977,
     name: "contact-me"
   }, {
     path: "/contact-us",
-    component: _e006d510,
+    component: _7c31077d,
     name: "contact-us"
   }, {
     path: "/distant-learning",
-    component: _33f37092,
+    component: _6a1c61fc,
     name: "distant-learning"
   }, {
     path: "/faq",
-    component: _e566694e,
+    component: _823f3618,
     name: "faq"
   }, {
     path: "/gallery-grid",
-    component: _0596daae,
+    component: _9312411a,
     name: "gallery-grid"
   }, {
     path: "/gallery-masonry",
-    component: _26c3848d,
+    component: _4c0e8da8,
     name: "gallery-masonry"
   }, {
     path: "/kindergarten",
-    component: _754c8813,
+    component: _262c8cd8,
     name: "kindergarten"
   }, {
     path: "/kitchen-coach",
-    component: _a4a27398,
+    component: _18cf5a0f,
     name: "kitchen-coach"
   }, {
     path: "/landing-demo",
-    component: _7b3741a6,
+    component: _2c17466b,
     name: "landing-demo"
   }, {
     path: "/my-account",
-    component: _68ba4c99,
+    component: _54eebe9e,
     name: "my-account"
   }, {
     path: "/online-academy",
-    component: _37c26502,
+    component: _45de95f8,
     name: "online-academy"
   }, {
     path: "/pricing-table",
-    component: _3af26dec,
+    component: _4da75ce5,
     name: "pricing-table"
   }, {
     path: "/privacy-policy",
-    component: _10d120a4,
+    component: _09c30829,
     name: "privacy-policy"
   }, {
     path: "/purchase-guide",
-    component: _0fb7d83d,
+    component: _08a9bfc2,
     name: "purchase-guide"
   }, {
     path: "/shop",
-    component: _72cdf786,
+    component: _5f02698b,
     name: "shop"
   }, {
     path: "/terms-condition",
-    component: _d37906d0,
+    component: _88e2f49a,
     name: "terms-condition"
   }, {
     path: "/university",
-    component: _043f971b,
+    component: _1f17edc0,
     name: "university"
   }, {
     path: "/yoga-instructor",
-    component: _2749dddd,
+    component: _4c94e6f8,
     name: "yoga-instructor"
   }, {
     path: "/blog/blog-details",
-    component: _c6fdc332,
+    component: _c9a3667c,
     name: "blog-blog-details"
   }, {
     path: "/blog/blog-list",
-    component: _9f55666e,
+    component: _ad719764,
     name: "blog-blog-list"
   }, {
     path: "/blog/blog-masonry",
-    component: _348270ea,
+    component: _332f9f45,
     name: "blog-blog-masonry"
   }, {
     path: "/blog/blog-standard",
-    component: _3a5111e8,
+    component: _1149aeed,
     name: "blog-blog-standard"
   }, {
     path: "/course/course-details",
-    component: _d26950f2,
+    component: _0433e062,
     name: "course-course-details"
   }, {
     path: "/course/course-details-2",
-    component: _0bc082ec,
+    component: _7dab7df2,
     name: "course-course-details-2"
   }, {
     path: "/course/course-details-3",
-    component: _0bce9a6d,
+    component: _7d8f4ef0,
     name: "course-course-details-3"
   }, {
     path: "/course/course-five",
-    component: _e3827886,
+    component: _653760c2,
     name: "course-course-five"
   }, {
     path: "/course/course-four",
-    component: _6ab2ff9e,
+    component: _bcc1c594,
     name: "course-course-four"
   }, {
     path: "/course/course-one",
-    component: _4b48402b,
+    component: _49f56e86,
     name: "course-course-one"
   }, {
     path: "/course/course-three",
-    component: _1cc40423,
+    component: _24df07be,
     name: "course-course-three"
   }, {
     path: "/course/course-two",
-    component: _63aff111,
+    component: _625d1f6c,
     name: "course-course-two"
   }, {
     path: "/event/event-details",
-    component: _56b8b79d,
+    component: _5ed3bb38,
     name: "event-event-details"
   }, {
     path: "/event/event-grid",
-    component: _30f975fb,
+    component: _95e0df80,
     name: "event-event-grid"
   }, {
     path: "/event/event-list",
-    component: _6e392f53,
+    component: _1b616cd0,
     name: "event-event-list"
   }, {
     path: "/instructor/instructor-one",
-    component: _07a185eb,
+    component: _09942946,
     name: "instructor-instructor-one"
   }, {
     path: "/instructor/instructor-profile",
-    component: _4d6d6da4,
+    component: _df9671ee,
     name: "instructor-instructor-profile"
   }, {
     path: "/instructor/instructor-three",
-    component: _27e2d9e3,
+    component: _77ba127e,
     name: "instructor-instructor-three"
   }, {
     path: "/instructor/instructor-two",
-    component: _200936d1,
+    component: _21fbda2c,
     name: "instructor-instructor-two"
   }, {
     path: "/shop/cart",
-    component: _0594b51c,
+    component: _1db76e77,
     name: "shop-cart"
   }, {
     path: "/shop/checkout",
-    component: _34fdb242,
+    component: _bfc373c6,
     name: "shop-checkout"
   }, {
     path: "/shop/product-details",
-    component: _6d4fc618,
+    component: _689535dd,
     name: "shop-product-details"
   }, {
     path: "/shop/wishlist",
-    component: _67a0797e,
+    component: _3750571c,
     name: "shop-wishlist"
   }, {
     path: "/",
-    component: _1ea9ac55,
+    component: _39bd4b30,
     name: "index"
   }],
 
